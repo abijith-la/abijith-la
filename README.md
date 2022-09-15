@@ -1,11 +1,11 @@
-<h1 align="center">Hey! I'am Abijith L</h1>
-<q align="center">learning to create and innovate through code</q>
+<h1 align="center">Hey! I'm Abijith L</h1>
+<h3 align="center">learning to create and innovate through code</h3>
 
 - 🔭 I’m currently working on **virtual soundstage simulation using deep learning.**
 
 - 🌱 I’m currently learning **fastai**
 
-- 📫 How to reach me **abijithla@gmail.com**
+- 📫 Reach me here **abijithla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
