@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **fastai**
 
-- 📫 Reach me here **abijithla@gmail.com**
+- 📫 Reach me here : **abijithla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
