@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Abijith L</h1>
-<h3 align="center">learning to create and innovate through code</h3>
+<h3 align="center"><b><i>learning to create and innovate through code</i></b></h3>
 
 - 🔭 I’m currently working on **virtual soundstage simulation using deep learning.**
 
