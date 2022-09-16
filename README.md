@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/87352664/190678171-c89d9f7e-d48a-4928-9bec-ef8263717d8b.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/87352664/190677792-039ea032-8c74-4a44-a76f-5f59e4eafb1c.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/87352664/190678171-c89d9f7e-d48a-4928-9bec-ef8263717d8b.svg" alt="flask" width="100" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/87352664/190677792-039ea032-8c74-4a44-a76f-5f59e4eafb1c.svg" alt="python" width="40" height="50"/> </a> </p>
