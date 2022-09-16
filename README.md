@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Virtual Soundstage Simulation using Neural Networks.**
 
-- 🌱 I’m currently learning **fastai**
+- 🌱 I’m currently learning <a href="https://www.fast.ai/">**fastai**</a>
 
 - 📫 Reach me here : **abijithla@gmail.com**
 
