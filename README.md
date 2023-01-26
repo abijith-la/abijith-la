@@ -1,10 +1,6 @@
 <h1 align="center">Hey! I'm Abijith L</h1>
 <h3 align="center"><b><i>"learning to create and innovate through code"</i></b></h3>
 
-- 🔭 I’m currently working on **Virtual Soundstage Simulation using Neural Networks.**
-
-- 🌱 I’m currently learning <a href="https://www.fast.ai/">**fastai**</a>
-
 - 📫 Reach me here : **abijithla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
